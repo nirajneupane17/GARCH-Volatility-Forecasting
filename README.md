@@ -18,6 +18,10 @@ news impact curves, regime detection, and model tournament.*
 
 ---
 
+![GARCH Volatility Forecasting](results/dashboard_final_pro.png)
+
+---
+
 ## What Is This Project?
 
 GARCH assumes volatility is symmetric. The data disagrees — and the disagreement is worth modelling.
